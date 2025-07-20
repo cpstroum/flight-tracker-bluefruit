@@ -1,0 +1,3 @@
+requests==2.31.0          # For HTTP calls to ADS-B Exchange via RapidAPI
+python-dotenv==1.0.1      # To securely manage API key and location
+bleak==0.21.1             # Bluetooth Low Energy (BLE) for sending data to device
