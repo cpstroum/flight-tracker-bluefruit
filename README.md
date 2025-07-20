@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# flight-tracker-bluefruit
-Show planes nearby using your Adafruit Circuit Playground Bluefruit and TFT Gizmo.
-=======
 # ✈️ Plane Tracker: Adafruit Bluefruit + TFT Gizmo
 
 Real-time flight data on a vector-style radar screen, running on the Circuit Playground Bluefruit with the TFT Gizmo. This repo documents the journey from "Hello, screen!" to a fully functional radar tracking nearby flights using Bluetooth and the ADS-B Exchange API.
